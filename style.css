@@ -33,4 +33,5 @@ body {
   width: 30px;
   height: 30px;
   margin: 0 5px;
+  width: clamp ( 20px, 5vw, 20px)
 }
