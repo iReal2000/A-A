@@ -5,7 +5,7 @@ h1 {
   padding: 10px 20px;
   text-align: center;
   color: White;
-  font-size: clamp( 3em, 8vw, 3em );
+  font-size: clamp( 2em, 8vw, 4em );
 }
 
 a {
