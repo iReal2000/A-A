@@ -33,3 +33,9 @@ body {
   height: 30px;
   margin: 0 5px;
 }
+@media (max-width: 768px) {
+  .logo-container img {
+    width: 20px;
+    height: 20px;
+  }
+}
