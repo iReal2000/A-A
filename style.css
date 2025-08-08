@@ -1,0 +1,37 @@
+h1 {
+  border-radius: 50px 0 50px 0;
+  background-color: #9E6B51;
+  font-style: italic;
+  padding: 10px 20px;
+  text-align: center;
+  color: black;
+  font-size: clamp( 5em, 10vw, 8em );
+}
+
+body {
+  margin: 0;
+  background-color: transparent;
+}
+
+body { 
+  background-image: url("Gambar1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-left: 5px;
+  justify-content: center;
+  width: 100%;
+}
+
+.logo-container img {
+  height: auto;
+  margin: 0 5px;
+  width: clamp( 100px, 50vw, 200px);
+}
