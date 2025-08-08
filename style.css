@@ -32,5 +32,5 @@ body {
 .logo-container img {
   height: auto;
   margin: 0 5px;
-  width: clamp ( 50px, 15vw, 100px)
+  width: clamp ( 30px, 15vw, 70px)
 }
