@@ -12,7 +12,7 @@ a {
   font-weight: bold;
   margin: 30px auto;
   border-radius: 8px;
-  font-size: 4vw;
+  font-size: clamp(1em, 4vw, 1.5em);
   padding: 10px 20px;
 }
 
